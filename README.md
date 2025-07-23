@@ -45,7 +45,7 @@ People who are new to skincare and unsure about their skin type.
    - Built Streamlit web app.
    - Users can upload an image to receive real-time skin type predictions.
 
-**Try it here:** [Skin Type Classification App](https://huggingface.co/spaces/fadhol/Skin-Type-Classification)
+**Try it here:** [Skin Type Classification App](https://huggingface.co/spaces/fadhol/skin-type-recognition)
 
 ## Results
 

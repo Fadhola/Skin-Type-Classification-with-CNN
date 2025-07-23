@@ -25,7 +25,7 @@ def predict_image(file):
     return img, pred_label, pred_proba[0]
 
 def run():
-    st.title('Skin Type Recognition')
+    st.title('Skin Type Classification')
     st.subheader('Upload gambar wajah dan klik tombol Predict')
 
     uploaded_file = st.file_uploader("Upload file gambar (.jpg/.jpeg/.png)", type=["jpg", "jpeg", "png"])
